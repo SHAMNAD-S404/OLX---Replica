@@ -1,0 +1,3 @@
+ .navSecond{
+    @apply flex border border-spacing-1 w-64 p-2 border-black ml-5  ;
+ }
